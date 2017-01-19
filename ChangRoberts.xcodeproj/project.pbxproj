@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30AB04621E310E2A00B16C34 /* DistributedAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30AB045E1E310E2A00B16C34 /* DistributedAlgorithm.swift */; };
 		30AB04631E310E2A00B16C34 /* Identifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30AB045F1E310E2A00B16C34 /* Identifier.swift */; };
 		30AB04641E310E2A00B16C34 /* StateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30AB04601E310E2A00B16C34 /* StateMachine.swift */; };
 		52D6D9871BEFF229002C0205 /* ChangRoberts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D6D97C1BEFF229002C0205 /* ChangRoberts.framework */; };
@@ -42,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		30AB045E1E310E2A00B16C34 /* DistributedAlgorithm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DistributedAlgorithm.swift; path = Sources/DistributedAlgorithm.swift; sourceTree = "<group>"; };
 		30AB045F1E310E2A00B16C34 /* Identifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Identifier.swift; path = Sources/Identifier.swift; sourceTree = "<group>"; };
 		30AB04601E310E2A00B16C34 /* StateMachine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StateMachine.swift; path = Sources/StateMachine.swift; sourceTree = "<group>"; };
 		52D6D97C1BEFF229002C0205 /* ChangRoberts.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ChangRoberts.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -125,6 +127,7 @@
 			children = (
 				30AB045F1E310E2A00B16C34 /* Identifier.swift */,
 				30AB04601E310E2A00B16C34 /* StateMachine.swift */,
+				30AB045E1E310E2A00B16C34 /* DistributedAlgorithm.swift */,
 			);
 			name = Sources;
 			sourceTree = "<group>";
@@ -476,6 +479,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				30AB04631E310E2A00B16C34 /* Identifier.swift in Sources */,
+				30AB04621E310E2A00B16C34 /* DistributedAlgorithm.swift in Sources */,
 				30AB04641E310E2A00B16C34 /* StateMachine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
