@@ -1,0 +1,14 @@
+opt_in_rules:
+
+trailing_comma:
+  mandatory_comma: true
+file_header:
+  required_pattern: |
+                    \/\/
+                    \/\/  .*?\.swift
+                    \/\/  ChangRoberts
+                    \/\/
+                    \/\/  Created by .*? on \d{1,2}\/\d{1,2}\/\d{4}\.
+                    \/\/  Copyright © \d{4} Roman Roibu\. All rights reserved\.
+                    \/\/
+line_length: 120
