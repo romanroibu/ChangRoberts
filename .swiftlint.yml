@@ -1,5 +1,8 @@
 opt_in_rules:
 
+variable_name:
+  excluded:
+    - to
 trailing_comma:
   mandatory_comma: true
 file_header:
